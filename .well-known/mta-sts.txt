@@ -1,8 +1,4 @@
 version: STSv1
 mode: enforce
 mx: sinnema-nl.u-v1.mx.microsoft
-mx: pietersinnema-nl.p-v1.mx.microsoft
-mx: sinnema-eu.j-v1.mx.microsoft
-mx: sinne-ma.s-v1.mx.microsoft
-mx: sinnema-frl.b-v1.mx.microsoft
 max_age: 604800
